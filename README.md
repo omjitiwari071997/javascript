@@ -1,2 +1,2 @@
 # javascript
-Full class javascript with HTML code
+Full javascript with HTML code
